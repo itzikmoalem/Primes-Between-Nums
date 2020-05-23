@@ -1,5 +1,5 @@
 ;---------------------------Sum of Grades----------------------------;
-;---------Itzik Moalem----------------------------313181638----------;
+;---------------------------Itzik Moalem-----------------------------;
 
 ;The program get 2 numbers and check all the numbers include them
 ;if there is a prime numbers its save them in array
